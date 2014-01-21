@@ -1,5 +1,6 @@
 # Drawdio
 Drawdio is an electronic pencil that makes music while you draw.
+Essentially, it's a simple musical synthesizer that uses the conductive properties of pencil graphite to create different sounds.
 The original design/idea is from [Jay Silver](http://www.drawdio.com).
 
 Shop: [Drawdio](http://www.watterott.com/en/Drawdio-Kit)
