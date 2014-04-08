@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -11438,8 +11438,8 @@ DIN A4, landscape with location and doc. field</description>
 <wire x1="99.06" y1="111.76" x2="101.6" y2="109.22" width="0.1524" layer="95"/>
 <wire x1="96.52" y1="114.3" x2="101.6" y2="114.3" width="0.1524" layer="95"/>
 <circle x="99.06" y="119.38" radius="2.54" width="0.1524" layer="95"/>
-<text x="161.29" y="34.29" size="1.27" layer="95">Released under the Creative Commons Attribution Share-Alike 3.0 License</text>
-<text x="161.29" y="31.75" size="1.27" layer="95">http://creativecommons.org/licenses/by-sa/3.0/</text>
+<text x="161.29" y="34.29" size="1.27" layer="95">Released under the Creative Commons Attribution Share-Alike License</text>
+<text x="161.29" y="31.75" size="1.27" layer="95">http://creativecommons.org/licenses/by-sa/4.0/</text>
 <text x="161.29" y="27.94" size="1.27" layer="95">Designed by Stephan Watterott (Watterott electronic)</text>
 <text x="161.29" y="25.4" size="1.27" layer="95">Based on the work of Jay Silver (www.drawdio.com) and Ladyada (www.adafruit.com)</text>
 <text x="34.29" y="146.05" size="2.54" layer="95">Drawdio is an electronic pencil that makes music while you draw. It is a simple musical synthesizer 
