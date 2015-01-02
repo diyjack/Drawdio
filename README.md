@@ -10,4 +10,4 @@ Assembly Instructions:
 [German](https://raw.github.com/watterott/Drawdio/master/pcb/Drawdio_de.pdf), 
 [Italian](https://raw.github.com/watterott/Drawdio/master/pcb/Drawdio_it.pdf)
 
-![Drawdio](https://raw.github.com/watterott/Drawdio/master/img/drawdio.jpg)
+[![Drawdio](https://raw.github.com/watterott/Drawdio/master/img/drawdio.jpg)](http://www.watterott.com/en/Drawdio-Kit)
